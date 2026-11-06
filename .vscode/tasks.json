@@ -1,0 +1,15 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "PlatformIO: Build Pico",
+			"type": "shell",
+			"command": "pio",
+			"args": [
+				"run"
+			],
+			"problemMatcher": [],
+			"group": "build"
+		}
+	]
+}
